@@ -1,0 +1,319 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Q# samples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-12T17:50:28Z",
+            "owner": "microsoft",
+            "repo": "Quantum",
+            "stars": 4045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Q# libraries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Q#",
+            "last_commit": "2024-02-07T16:22:58Z",
+            "owner": "microsoft",
+            "repo": "QuantumLibraries",
+            "stars": 571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Q# libraries for the Quantum Development Kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Q#",
+            "last_commit": "2024-02-07T16:22:58Z",
+            "owner": "microsoft",
+            "repo": "QuantumLibraries",
+            "stars": 571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum Computing Libraries for noncommercial use",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "F#",
+            "last_commit": "2024-02-07T16:23:39Z",
+            "owner": "microsoft",
+            "repo": "Quantum-NC",
+            "stars": 209
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Quantum Katas",
+          "description": "Programming exercises for learning Q# and quantum computing.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-21T18:51:07Z",
+            "owner": "microsoft",
+            "repo": "QuantumKatas",
+            "stars": 4907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum Perceptron",
+          "description": "Materials for self-paced \"Introduction to Quantum Machine Learning\" workshop presented at MLADS 2018.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Q#",
+            "last_commit": "2020-12-01T23:53:13Z",
+            "owner": "microsoft",
+            "repo": "MLADS2018-QuantumML",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deutsch-Jozsa Algorithm",
+          "description": "Materials for self-paced \"Introduction to Quantum Computing\" workshop presented at Grace Hopper Celebration 2018 and Hopper x1 Seattle 2019.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-12-17T06:45:07Z",
+            "owner": "microsoft",
+            "repo": "GHC18-IntroToQuantumComputing",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum Classification",
+          "description": "Materials for self-paced \"Introduction to Quantum Classification\" lab presented at MLADS 2020.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-12-03T07:04:01Z",
+            "owner": "microsoft",
+            "repo": "MLADS2020-QuantumClassification",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Coding Contests and Solutions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-10-06T11:46:33Z",
+            "owner": "RobertDurfee",
+            "repo": "QSharpCodingChallenge",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Q# codes by Hiroshi Kurokawa",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-07-16T06:05:41Z",
+            "owner": "hkurokawa",
+            "repo": "QSharpCodingContest2018",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "No Description_ by Hajime Fukuda",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-07-10T12:19:52Z",
+            "owner": "hajifkd",
+            "repo": "qsharp-vscode",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Participants' solutions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Emacs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2023-05-02T07:27:33Z",
+            "owner": "rzrn",
+            "repo": "emacs-qsharp-mode",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2019-03-21T15:51:43Z",
+            "owner": "gootorov",
+            "repo": "q-sharp.vim",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atom",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "IDE Integration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "QuantumPeep",
+          "description": "Generate Q# from JavaScript/TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-03T15:19:15Z",
+            "owner": "mapmeld",
+            "repo": "quantum-peep",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A implementation of Shor's algorithm written in Python calling Q# for the quantum part",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-07-28T02:13:09Z",
+            "owner": "Michaelvll",
+            "repo": "myQShor",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hadamard Gate Q# Demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Q#",
+            "last_commit": "2021-03-18T23:22:51Z",
+            "owner": "jwulf",
+            "repo": "HGate",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Q# Bell State Program",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-12-22T14:47:15Z",
+            "owner": "pktippa",
+            "repo": "q_sharp_bell_state",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum Computing Q# Introduction 2018",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-02-08T15:45:59Z",
+            "owner": "Djohnnie",
+            "repo": "QuantumComputingQSharpIntroduction2018",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Q# playgroud",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-06-21T06:15:26Z",
+            "owner": "weize07",
+            "repo": "Qsharp-playgroud",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Demos, Samples, and Additional Libraries"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:21:21.569Z",
+    "original_repository": "ebraminio/awesome-qsharp",
+    "original_repository_sha": "10a6e8507761627704b5e77c24ec10e7eebc2b14",
+    "enhanced_repository": "enhansome/enhansome-qsharp",
+    "enhanced_repository_description": null,
+    "title": "Awesome Q# with stars"
+  }
+}
