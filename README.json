@@ -14,7 +14,7 @@
             "last_commit": "2024-01-12T17:50:28Z",
             "owner": "microsoft",
             "repo": "Quantum",
-            "stars": 4046
+            "stars": 4047
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2024-08-21T18:51:07Z",
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4907
+            "stars": 4906
           }
         },
         {
@@ -309,7 +309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:09:21.039Z",
+    "last_updated": "2026-08-14T20:51:22.059Z",
     "original_repository": "ebraminio/awesome-qsharp",
     "original_repository_sha": "10a6e8507761627704b5e77c24ec10e7eebc2b14",
     "enhanced_repository": "enhansome/enhansome-qsharp",
