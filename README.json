@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 110042100,
             "language": "Jupyter Notebook",
             "last_commit": "2024-01-12T17:50:28Z",
             "owner": "microsoft",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 154377414,
             "language": "Q#",
             "last_commit": "2024-02-07T16:22:58Z",
             "owner": "microsoft",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 154377414,
             "language": "Q#",
             "last_commit": "2024-02-07T16:22:58Z",
             "owner": "microsoft",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 118656415,
             "language": "F#",
             "last_commit": "2024-02-07T16:23:39Z",
             "owner": "microsoft",
@@ -63,7 +67,7 @@
       "title": "Official Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 136380207,
             "language": "Jupyter Notebook",
             "last_commit": "2024-08-21T18:51:07Z",
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4908
+            "stars": 4909
           }
         },
         {
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 153672189,
             "language": "Q#",
             "last_commit": "2020-12-01T23:53:13Z",
             "owner": "microsoft",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 134636556,
             "language": "C#",
             "last_commit": "2019-12-17T06:45:07Z",
             "owner": "microsoft",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 263542592,
             "language": "Jupyter Notebook",
             "last_commit": "2020-12-03T07:04:01Z",
             "owner": "microsoft",
@@ -125,60 +133,65 @@
       "title": "Tutorials"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151834187,
+                "language": "C#",
+                "last_commit": "2018-10-06T11:46:33Z",
+                "owner": "RobertDurfee",
+                "repo": "QSharpCodingChallenge",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Q# codes by Hiroshi Kurokawa",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141093498,
+                "language": "C#",
+                "last_commit": "2018-07-16T06:05:41Z",
+                "owner": "hkurokawa",
+                "repo": "QSharpCodingContest2018",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "No Description_ by Hajime Fukuda",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139736640,
+                "language": "C#",
+                "last_commit": "2018-07-10T12:19:52Z",
+                "owner": "hajifkd",
+                "repo": "qsharp-vscode",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Participants' solutions"
+        }
+      ],
       "title": "Coding Contests and Solutions"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2018-10-06T11:46:33Z",
-            "owner": "RobertDurfee",
-            "repo": "QSharpCodingChallenge",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Q# codes by Hiroshi Kurokawa",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2018-07-16T06:05:41Z",
-            "owner": "hkurokawa",
-            "repo": "QSharpCodingContest2018",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "No Description_ by Hajime Fukuda",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2018-07-10T12:19:52Z",
-            "owner": "hajifkd",
-            "repo": "qsharp-vscode",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Participants' solutions"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -187,6 +200,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133375395,
             "language": "Emacs Lisp",
             "last_commit": "2023-05-02T07:27:33Z",
             "owner": "rzrn",
@@ -201,24 +215,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176977729,
             "language": "Vim script",
             "last_commit": "2019-03-21T15:51:43Z",
             "owner": "gootorov",
             "repo": "q-sharp.vim",
             "stars": 3
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Atom",
-          "description": null,
-          "children": []
         }
       ],
       "title": "IDE Integration"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -227,6 +236,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157369351,
             "language": "TypeScript",
             "last_commit": "2023-01-03T15:19:15Z",
             "owner": "mapmeld",
@@ -241,6 +251,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143630750,
             "language": "HTML",
             "last_commit": "2019-07-28T02:13:09Z",
             "owner": "Michaelvll",
@@ -255,6 +266,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149473573,
             "language": "Q#",
             "last_commit": "2021-03-18T23:22:51Z",
             "owner": "jwulf",
@@ -269,6 +281,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115016459,
             "language": "C#",
             "last_commit": "2017-12-22T14:47:15Z",
             "owner": "pktippa",
@@ -283,6 +296,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154185933,
             "language": "C#",
             "last_commit": "2019-02-08T15:45:59Z",
             "owner": "Djohnnie",
@@ -297,6 +311,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136773230,
             "language": "C#",
             "last_commit": "2018-06-21T06:15:26Z",
             "owner": "weize07",
@@ -309,8 +324,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:44:14.363Z",
+    "last_updated": "2026-08-19T12:47:37.985Z",
     "original_repository": "ebraminio/awesome-qsharp",
+    "original_repository_id": 115454956,
     "original_repository_sha": "10a6e8507761627704b5e77c24ec10e7eebc2b14",
     "enhanced_repository": "enhansome/enhansome-qsharp",
     "enhanced_repository_description": null,
