@@ -324,9 +324,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:46:42.090Z",
-    "original_repository": "ebraminio/awesome-qsharp",
-    "original_repository_id": 115454956,
+    "last_updated": "2026-08-27T12:01:36.833Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 115454956,
+      "language": null,
+      "last_commit": "2022-08-11T16:16:35Z",
+      "owner": "ebraminio",
+      "repo": "awesome-qsharp",
+      "stars": 182
+    },
     "original_repository_sha": "10a6e8507761627704b5e77c24ec10e7eebc2b14",
     "enhanced_repository": "enhansome/enhansome-qsharp",
     "enhanced_repository_description": null,
