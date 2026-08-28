@@ -15,8 +15,9 @@
             "last_commit": "2024-01-12T17:50:28Z",
             "owner": "microsoft",
             "repo": "Quantum",
-            "stars": 4047
-          }
+            "stars": 4048
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "microsoft",
             "repo": "QuantumLibraries",
             "stars": 571
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "microsoft",
             "repo": "QuantumLibraries",
             "stars": 571
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "microsoft",
             "repo": "Quantum-NC",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         }
       ],
       "title": "Official Resources"
@@ -82,7 +86,8 @@
             "owner": "microsoft",
             "repo": "QuantumKatas",
             "stars": 4909
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         },
         {
           "node_type": "item",
@@ -96,8 +101,9 @@
             "last_commit": "2020-12-01T23:53:13Z",
             "owner": "microsoft",
             "repo": "MLADS2018-QuantumML",
-            "stars": 54
-          }
+            "stars": 55
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "microsoft",
             "repo": "GHC18-IntroToQuantumComputing",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2020-12-03T07:04:01Z",
             "owner": "microsoft",
             "repo": "MLADS2020-QuantumClassification",
-            "stars": 21
-          }
+            "stars": 22
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         }
       ],
       "title": "Tutorials"
@@ -150,7 +158,8 @@
                 "owner": "RobertDurfee",
                 "repo": "QSharpCodingChallenge",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:24:01.600Z"
             },
             {
               "node_type": "item",
@@ -165,7 +174,8 @@
                 "owner": "hkurokawa",
                 "repo": "QSharpCodingContest2018",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:24:01.600Z"
             },
             {
               "node_type": "item",
@@ -180,7 +190,8 @@
                 "owner": "hajifkd",
                 "repo": "qsharp-vscode",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:24:01.600Z"
             }
           ],
           "description": null,
@@ -206,7 +217,8 @@
             "owner": "rzrn",
             "repo": "emacs-qsharp-mode",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         },
         {
           "node_type": "item",
@@ -221,7 +233,8 @@
             "owner": "gootorov",
             "repo": "q-sharp.vim",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         }
       ],
       "title": "IDE Integration"
@@ -242,7 +255,8 @@
             "owner": "mapmeld",
             "repo": "quantum-peep",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         },
         {
           "node_type": "item",
@@ -257,7 +271,8 @@
             "owner": "Michaelvll",
             "repo": "myQShor",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         },
         {
           "node_type": "item",
@@ -272,7 +287,8 @@
             "owner": "jwulf",
             "repo": "HGate",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         },
         {
           "node_type": "item",
@@ -287,7 +303,8 @@
             "owner": "pktippa",
             "repo": "q_sharp_bell_state",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         },
         {
           "node_type": "item",
@@ -302,7 +319,8 @@
             "owner": "Djohnnie",
             "repo": "QuantumComputingQSharpIntroduction2018",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         },
         {
           "node_type": "item",
@@ -317,14 +335,15 @@
             "owner": "weize07",
             "repo": "Qsharp-playgroud",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.600Z"
         }
       ],
       "title": "Demos, Samples, and Additional Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:36.833Z",
+    "last_updated": "2026-08-28T04:24:01.600Z",
     "original_repository_info": {
       "archived": false,
       "id": 115454956,
