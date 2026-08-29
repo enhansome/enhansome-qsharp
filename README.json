@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Microsoft Quantum Development Kit Samples",
+            "homepage": "https://docs.microsoft.com/quantum",
             "id": 110042100,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-01-12T17:50:28Z",
+            "open_issues": 53,
             "owner": "microsoft",
             "repo": "Quantum",
-            "stars": 4048
+            "stars": 4048,
+            "topics": [
+              "python",
+              "qdk",
+              "qsharp",
+              "quantum",
+              "quantum-computing",
+              "quantum-development-kit"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         },
@@ -26,12 +38,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Q# libraries for the Quantum Development Kit",
+            "homepage": "https://docs.microsoft.com/quantum",
             "id": 154377414,
             "language": "Q#",
+            "license": "MIT",
             "last_commit": "2024-02-07T16:22:58Z",
+            "open_issues": 71,
             "owner": "microsoft",
             "repo": "QuantumLibraries",
-            "stars": 571
+            "stars": 571,
+            "topics": [
+              "hacktoberfest",
+              "qdk",
+              "qsharp",
+              "quantum",
+              "quantum-computing",
+              "quantum-development-kit"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         },
@@ -42,12 +66,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Q# libraries for the Quantum Development Kit",
+            "homepage": "https://docs.microsoft.com/quantum",
             "id": 154377414,
             "language": "Q#",
+            "license": "MIT",
             "last_commit": "2024-02-07T16:22:58Z",
+            "open_issues": 71,
             "owner": "microsoft",
             "repo": "QuantumLibraries",
-            "stars": 571
+            "stars": 571,
+            "topics": [
+              "hacktoberfest",
+              "qdk",
+              "qsharp",
+              "quantum",
+              "quantum-computing",
+              "quantum-development-kit"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         },
@@ -58,12 +94,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Microsoft Quantum Computing Libraries for noncommercial use",
+            "homepage": null,
             "id": 118656415,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-07T16:23:39Z",
+            "open_issues": 1,
             "owner": "microsoft",
             "repo": "Quantum-NC",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "python",
+              "qdk",
+              "qsharp",
+              "quantum",
+              "quantum-computing",
+              "quantum-development-kit"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         }
@@ -80,12 +128,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tutorials and programming exercises for learning Q# and quantum computing",
+            "homepage": null,
             "id": 136380207,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-08-21T18:51:07Z",
+            "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4909
+            "stars": 4909,
+            "topics": [
+              "coding-kata",
+              "hacktoberfest",
+              "qsharp",
+              "quantum-computing",
+              "quantum-programming",
+              "tutorial-exercises",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         },
@@ -96,12 +157,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Introduction to Quantum Machine Learning tutorial: Building a quantum perceptron using Microsoft Quantum Development Kit",
+            "homepage": null,
             "id": 153672189,
             "language": "Q#",
+            "license": "MIT",
             "last_commit": "2020-12-01T23:53:13Z",
+            "open_issues": 0,
             "owner": "microsoft",
             "repo": "MLADS2018-QuantumML",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         },
@@ -112,12 +178,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Workshop materials for the \"Introduction to Quantum Computing\" workshop",
+            "homepage": null,
             "id": 134636556,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-12-17T06:45:07Z",
+            "open_issues": 0,
             "owner": "microsoft",
             "repo": "GHC18-IntroToQuantumComputing",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "deutsch-jozsa",
+              "qsharp",
+              "quantum-computing"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         },
@@ -128,12 +203,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Quantum Classification tutorial using Microsoft Quantum Development Kit",
+            "homepage": null,
             "id": 263542592,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-12-03T07:04:01Z",
+            "open_issues": 0,
             "owner": "microsoft",
             "repo": "MLADS2020-QuantumClassification",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         }
@@ -152,12 +232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces.",
+                "homepage": null,
                 "id": 151834187,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2018-10-06T11:46:33Z",
+                "open_issues": 0,
                 "owner": "RobertDurfee",
                 "repo": "QSharpCodingChallenge",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:01.600Z"
             },
@@ -168,12 +253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Q# codes for https://codeforces.com/contest/1002",
+                "homepage": null,
                 "id": 141093498,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2018-07-16T06:05:41Z",
+                "open_issues": 0,
                 "owner": "hkurokawa",
                 "repo": "QSharpCodingContest2018",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:01.600Z"
             },
@@ -184,12 +274,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 139736640,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2018-07-10T12:19:52Z",
+                "open_issues": 0,
                 "owner": "hajifkd",
                 "repo": "qsharp-vscode",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:01.600Z"
             }
@@ -211,12 +306,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GNU/Emacs Q# mode",
+            "homepage": null,
             "id": 133375395,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2023-05-02T07:27:33Z",
+            "open_issues": 1,
             "owner": "rzrn",
             "repo": "emacs-qsharp-mode",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "emacs",
+              "qsharp",
+              "quantum"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         },
@@ -227,12 +331,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vim support for the Q# programming language.",
+            "homepage": null,
             "id": 176977729,
             "language": "Vim script",
+            "license": "MIT",
             "last_commit": "2019-03-21T15:51:43Z",
+            "open_issues": 0,
             "owner": "gootorov",
             "repo": "q-sharp.vim",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "qdk",
+              "qsharp",
+              "quantum"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         }
@@ -249,12 +362,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-platform quantum programming library, written in TypeScript, good for JS/NodeJS",
+            "homepage": "https://mapmeld.com/quantum-peep/",
             "id": 157369351,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-03T15:19:15Z",
+            "open_issues": 11,
             "owner": "mapmeld",
             "repo": "quantum-peep",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "quantum",
+              "quantum-computing",
+              "quantum-programming-language"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         },
@@ -265,12 +387,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A implementation of Shor's algorithm written in Python calling Q# for the quantum part",
+            "homepage": null,
             "id": 143630750,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2019-07-28T02:13:09Z",
+            "open_issues": 0,
             "owner": "Michaelvll",
             "repo": "myQShor",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "python3",
+              "qsharp"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         },
@@ -281,12 +411,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microsoft Q# SDK Demo showing quantum weirdness",
+            "homepage": null,
             "id": 149473573,
             "language": "Q#",
+            "license": null,
             "last_commit": "2021-03-18T23:22:51Z",
+            "open_issues": 0,
             "owner": "jwulf",
             "repo": "HGate",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "qsharp",
+              "quantum-algorithms",
+              "quantum-computing",
+              "quantum-programming-language"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         },
@@ -297,12 +437,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Q# Bell State Program",
+            "homepage": null,
             "id": 115016459,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2017-12-22T14:47:15Z",
+            "open_issues": 0,
             "owner": "pktippa",
             "repo": "q_sharp_bell_state",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "qsharp",
+              "quantum-computing"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         },
@@ -313,12 +461,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 154185933,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-02-08T15:45:59Z",
+            "open_issues": 0,
             "owner": "Djohnnie",
             "repo": "QuantumComputingQSharpIntroduction2018",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "quantum"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         },
@@ -329,12 +484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quantum Computer coding exercises",
+            "homepage": null,
             "id": 136773230,
             "language": "C#",
+            "license": null,
             "last_commit": "2018-06-21T06:15:26Z",
+            "open_issues": 0,
             "owner": "weize07",
             "repo": "Qsharp-playgroud",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.600Z"
         }
@@ -343,15 +503,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:51:05.570Z",
+    "last_updated": "2026-08-29T04:53:11.500Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Q# code and resources.",
+      "homepage": null,
       "id": 115454956,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2022-08-11T16:16:35Z",
+      "open_issues": 0,
       "owner": "ebraminio",
       "repo": "awesome-qsharp",
-      "stars": 182
+      "stars": 182,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "q-sharp",
+        "qsharp",
+        "quantum-computing",
+        "quantum-programming"
+      ]
     },
     "original_repository_sha": "10a6e8507761627704b5e77c24ec10e7eebc2b14",
     "enhanced_repository": "enhansome/enhansome-qsharp",
