@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "microsoft",
             "repo": "Quantum",
-            "stars": 4046,
+            "stars": 4047,
             "topics": [
               "python",
               "qdk",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T22:59:17.420Z",
+    "last_updated": "2026-09-27T23:09:32.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Q# code and resources.",
