@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Q# samples",
-          "description": null,
+          "description": "microsoft/Quantum",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "Q# libraries",
-          "description": null,
+          "description": "microsoft/QuantumLibraries",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -62,7 +62,7 @@
         {
           "node_type": "item",
           "title": "Q# libraries for the Quantum Development Kit",
-          "description": null,
+          "description": "microsoft/QuantumLibraries",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "Quantum Computing Libraries for noncommercial use",
-          "description": null,
+          "description": "microsoft/Quantum-NC",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -228,7 +228,7 @@
             {
               "node_type": "item",
               "title": "Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces",
-              "description": null,
+              "description": "RobertDurfee/QSharpCodingChallenge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -249,7 +249,7 @@
             {
               "node_type": "item",
               "title": "Q# codes by Hiroshi Kurokawa",
-              "description": null,
+              "description": "hkurokawa/QSharpCodingContest2018",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -270,7 +270,7 @@
             {
               "node_type": "item",
               "title": "No Description_ by Hajime Fukuda",
-              "description": null,
+              "description": "hajifkd/qsharp-vscode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Emacs",
-          "description": null,
+          "description": "rzrn/emacs-qsharp-mode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -327,7 +327,7 @@
         {
           "node_type": "item",
           "title": "Vim",
-          "description": null,
+          "description": "gootorov/q-sharp.vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -383,7 +383,7 @@
         {
           "node_type": "item",
           "title": "A implementation of Shor's algorithm written in Python calling Q# for the quantum part",
-          "description": null,
+          "description": "Michaelvll/myQShor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -407,7 +407,7 @@
         {
           "node_type": "item",
           "title": "Hadamard Gate Q# Demo",
-          "description": null,
+          "description": "jwulf/HGate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -433,7 +433,7 @@
         {
           "node_type": "item",
           "title": "Q# Bell State Program",
-          "description": null,
+          "description": "pktippa/q_sharp_bell_state",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -457,7 +457,7 @@
         {
           "node_type": "item",
           "title": "Quantum Computing Q# Introduction 2018",
-          "description": null,
+          "description": "Djohnnie/QuantumComputingQSharpIntroduction2018",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -480,7 +480,7 @@
         {
           "node_type": "item",
           "title": "Q# playgroud",
-          "description": null,
+          "description": "weize07/Qsharp-playgroud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:51:51.209Z",
+    "last_updated": "2026-10-03T05:04:15.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Q# code and resources.",
