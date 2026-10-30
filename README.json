@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "microsoft",
             "repo": "Quantum",
-            "stars": 4057,
+            "stars": 4056,
             "topics": [
               "python",
               "qdk",
@@ -137,7 +137,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4915,
+            "stars": 4917,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:59:36.884Z",
+    "last_updated": "2026-10-30T23:54:38.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Q# code and resources.",
